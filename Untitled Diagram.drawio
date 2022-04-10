@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T09:17:37.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="y6XQUl2_8CFW862wgKCN" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T09:48:39.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="A2wC99qj4H0t_O0D81SF" version="17.4.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5747" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4375" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
         <mxCell id="6aoTAguRk3_9tyUvxP4T-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRlzDijKZAk4l-aHoEtR-66" target="6aoTAguRk3_9tyUvxP4T-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aoTAguRk3_9tyUvxP4T-4" value="belongsTo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6aoTAguRk3_9tyUvxP4T-3">
+        <mxCell id="6aoTAguRk3_9tyUvxP4T-4" value="isCategorized" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6aoTAguRk3_9tyUvxP4T-3">
           <mxGeometry x="-0.3643" y="4" relative="1" as="geometry">
             <mxPoint x="-13" y="4" as="offset" />
           </mxGeometry>
